@@ -2,9 +2,9 @@
 
 ![ex6](ex6.jpg)
 
-![listes d'elements](listes d'elements.jpg)
+![listes](listes.jpg)
 
-![a propos](a propos.jpg)
+![apropos](apropos.jpg)
 
 
 ![paramétres](paramétres.jpg)
